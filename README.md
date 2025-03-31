@@ -1,4 +1,4 @@
-# Hey👋
+# hey! 👋🏽
 
 I am Srivatsan (Srivat) and I am a Junior at UCLA studying Computer Science. I house all of my projects here.
 
