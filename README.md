@@ -1,4 +1,3 @@
-I am Srivatsan (Srivat) and I am a Junior at UCLA studying Computer Science. I house all of my projects here.
-
+CS student at UCLA. I love technology and music.
 - Linkedin : https://www.linkedin.com/in/srivatsan-balaji3/
 - 📨 : srivatbalaji@ucla.edu
